@@ -12,6 +12,10 @@
 
 
 
+
+
+
+
 # **Computer Science Guide**
 
 
@@ -20,7 +24,10 @@
 **This guide is for** ***everyone,*** **regardless of your skillset.**
 
 
-**This guide may change in the future.**
+**This Guide may change in the future.**
+
+
+**Please feel free to contribute to this Guide in** ***any** **way possible.**
 
 
 
@@ -580,6 +587,9 @@ be using) every time
 - All new things can be intimidating, but don't let that stop you
 
 
+- Manage your time
+
+
 - Face challenges head-on
 
 
@@ -633,6 +643,9 @@ Thanks for reading, and good luck to you all.
 
 
 #
+
+
+
 
 
 
