@@ -469,12 +469,6 @@ another technology (in general).
     - In-depth content
 
 
-- [Udemy](https://www.udemy.com/)
-    - Lots of Courses, some include certificates
-    - Offers Free & Paid Courses
-    - Variety of Content
-    - Some Courses have Quizzes and Projects for good practice / knowledge reinforcement
-
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
     - Lots of Courses and Tutorials
@@ -482,6 +476,16 @@ another technology (in general).
     - In-depth content
     - Offers Interview Preparation & Practice
     - Free & Paid
+    - A Computer Science Portal
+
+
+- [Udemy](https://www.udemy.com/)
+    - Lots of Courses, some include certificates
+    - Offers Free & Paid Courses
+    - Variety of Content
+    - Some Courses have Quizzes and Projects for good practice / knowledge reinforcement
+
+
 
 
 - [GitHub](https://www.github.com/)
@@ -643,6 +647,9 @@ Thanks for reading, and good luck to you all.
 
 
 #
+
+
+
 
 
 
