@@ -12,18 +12,26 @@
 
 
 
-Computer Science Guide
+# **Computer Science Guide**
+
+
+
+
+**This guide is for** ***everyone,*** **regardless of your skillset.**
+
+
+**This guide may change in the future.**
+
+
+
+
+#
 
 
 
 
 
-
-
-
-
-
-Requirements:
+## **Requirements**
 
 - an interest
 
@@ -37,12 +45,9 @@ Requirements:
 
 
 
+## **How should one learn?**
 
-
-
-How should one learn?
-
-You should 100% be self-taught; i.e. not taking programming classes at your school,
+You should be self-taught; i.e. not taking programming classes at your school,
 not going to a programming bootcamp / programming school; not having a
 personal mentor / teacher / coach to teach you (getting advice / tips is fine).
 
@@ -50,9 +55,11 @@ You can self-learn using resources such as Books, E-Books,
 Online Courses / Tutorials (not to be confused with a distance-learning
 bootcamp) such as YouTube Videos, Udemy Courses, etc. 
 
-Formal Education is always an option though, and depending on the job / role you are aiming for,
+Formal Education is also a good choice, and depending on the job / role you are aiming for,
 you may need a Bachelor's Degree and / or some other certification.
 
+You can self-learn, and go to a College / University to obtain a degree which will definitely
+help you land a job.
 
 
 
@@ -61,8 +68,7 @@ you may need a Bachelor's Degree and / or some other certification.
 
 
 
-
-Why be self-taught?
+## **Why self-learn?**
 
 - Learn at your own pace (but try to be consistent)
 
@@ -70,10 +76,13 @@ Why be self-taught?
 - Learn whenever
 
 
+- Accommodate / Fulfill your educational / academic needs
+
+
 - Learn from where ever you want
 
 
-- No homework
+- No stress
 
 
 - Cool thing to flex
@@ -105,26 +114,10 @@ Why be self-taught?
 
 
 
-Does one need any certifications to get hired?
+## **Does one need any certifications to get hired?**
 
-- This varies per job title / role, and employer(s)
-
-
-
-
-
-
-
-
-
-
-
-
-Is Computer Science hard?
-
-- At first it might look complex and hard -- and it might even be hard, but if you stay consistent with your
-courses, obtain the information from your resource(s) properly,
-you'll be on the path to become a pro.
+- This varies per job title / role, and employer(s). But for most, certifications are 
+required.
 
 
 
@@ -136,7 +129,24 @@ you'll be on the path to become a pro.
 
 
 
-How can one make money as a Programmer?
+
+## **Is Computer Science hard?**
+
+- Truthfully, the difficulty varies per person. It might be intimidating at first, but if you stay consistent with your
+courses, obtain the information from your resource(s) properly, you'll be on the path to becoming a pro.
+
+
+- Practice makes perfect; life is about trial and error.
+
+
+
+
+
+
+
+
+
+## **How can one make money as a Programmer?**
 
 - SaaS (Software as a Service; Google, Discord, YouTube, and Windows Operating
 Systems are good examples)
@@ -145,7 +155,7 @@ Systems are good examples)
 - Freelance Work
 
 
-- A nine-to-five job
+- A nine-to-five job (Remote or in-person)
 
 
 - Paid Collaboration
@@ -157,7 +167,7 @@ Systems are good examples)
 
 
 
-Picking a Programming Language:
+## **Picking a Programming Language**
 
 There are many Programming Languages out there such as Python, C, C++, C#, Java,
 Javascript, Go (aka Golang), etc.
@@ -179,10 +189,10 @@ most are pretty similar to the one of the two or both in their own ways, just wi
 
 
 
-To install Python, go to https://www.python.org/downloads/
+To install Python, go to [this page](https://www.python.org/downloads/)
 and install the latest version of Python.
 
-To install Golang, go to https://www.go.dev/dl/
+To install Golang, go to [this page](https://www.go.dev/dl/)
 and install the latest version of Golang.
 
 
@@ -193,10 +203,14 @@ and install the latest version of Golang.
 
 
 
-Choose a Text Editor or IDE (Integrated Development Environment)
+## **Choosing a Text Editor or IDE (Integrated Development Environment)**
+
+Note: There are some IDEs that can be used for multiple languages, and there are also
+some IDEs that are suited for one specific language.
 
 
-Popular Text Editors:
+
+**Popular Text Editors:**
 
 - Visual Studio Code (Recommended)
 
@@ -225,7 +239,7 @@ Popular Text Editors:
 
 
 
-Popular IDEs:
+**Popular IDEs:**
 
 - Visual Studio
 
@@ -252,14 +266,14 @@ Popular IDEs:
 
 
 
-Install the IDE / Text Editor of your choice
+#### **Installing and Setting up the IDE / Text Editor of your choice**
 
 
 
 
 Setup for Visual Studio Code:
 
-- Go to https://www.code.visualstudio.com/
+- Go to [this page](https://www.code.visualstudio.com/)
 
 
 - Download Visual Studio Code (Community is Recommended)
@@ -290,7 +304,7 @@ Setup for Visual Studio Code:
 
 
 
-[Roadmap] What skills should one learn?
+### **[Roadmap] What skills should one learn?**
 
 - Any Programming Language of your choice (A General-Purpose language is recommended for beginners)
 
@@ -302,6 +316,9 @@ Setup for Visual Studio Code:
 
 
 - JSON and / or XML and / or TOML and / or YAML: Data Serialization
+
+
+- Basic Computer Architecture and Hardware
 
 
 - Software Engineering
@@ -322,7 +339,11 @@ Setup for Visual Studio Code:
 
 
 
-[Terminology] Module vs Library vs Package vs Framework vs API vs SDK:
+### **[Terminology] Module vs Library vs Package vs Framework vs API vs SDK**
+
+Note: This is based on *my personal knowledge*, so please correct me if I'm wrong, or if
+you would like to add on.
+
 
 - Module: Reusable source code
 
@@ -336,7 +357,7 @@ Setup for Visual Studio Code:
 - API (Application Programming Interface): Allows applications to communicate with each other
 
 
-- SDK (Software Development Kit): Tool(s) used for Software Development
+- SDK (Software Development Kit): Tool(s) used for Software Development compiled into one Kit / Set / Pack
 
 
 
@@ -350,7 +371,7 @@ Setup for Visual Studio Code:
 
 
 
-[Terminology] Full-Stack vs Front-End vs Back-End:
+### **[Terminology] Full-Stack vs Front-End vs Back-End**
 
 - Full-Stack: Combination of the Front-End and Back-End
 
@@ -358,7 +379,7 @@ Setup for Visual Studio Code:
 - Front-End: Client-Side / Interface
 
 
-- Back-End: Server-Side
+- Back-End: Server-Side / Functionality
 
 
 
@@ -369,7 +390,7 @@ Setup for Visual Studio Code:
 
 
 
-[FAQ] What's the best {technology}?
+### **[FAQ + Mythbuster] "What's the best {technology}?", "x is better than y and z."**
 
 There is no such thing as "the best" X, and X is not better than Y or Z
 
@@ -403,9 +424,9 @@ another technology (in general).
 
 
 
-List of some Self-Learning Resources
+# **List of some Self-Learning Resources**
 
-- sololearn.com
+- [Sololearn](https://www.sololearn.com/)
     - Website, iOS App, Android App
     - Free with paid features that aren't necessary
     - Free Certificates
@@ -413,7 +434,7 @@ List of some Self-Learning Resources
     - Free Quizzes and Projects for good practice / knowledge reinforcement
 
 
-- codecademy.com
+- [Codecademy](https://www.codecademy.com/)
     - Some Free Courses, Some Paid / Subscription-Based Courses
     - Certificates for Members of PRO Subscription
     - Great content
@@ -421,13 +442,13 @@ List of some Self-Learning Resources
     - iOS and Android app
 
 
-- freecodecamp.org
+- [freeCodeCamp](https://www.freecodecamp.org/)
     - Free
-    - Content for almost everything in Technology
-    - They also have a youtube channel: https://www.youtube.com/c/freecodecamp/
+    - Content for almost everything about **Computer Science**
+    - They also have a youtube channel: [freeCodeCamp](https://www.youtube.com/c/freecodecamp/)
 
 
-- w3schools.com
+- [W3Schools](https://www.w3schools.com/)
     - Free Tutorials
     - Paid Courses (More in-depth than the Tutorials)
     - Certificates for Paid Courses
@@ -435,21 +456,30 @@ List of some Self-Learning Resources
     - Free Quizzes for good practice / knowledge reinforcement
 
 
-- programiz.com
-	- Lots of free courses
-	- In-depth content
+
+- [Programiz](https://www.programiz.com/)
+    - Lots of free courses
+    - In-depth content
 
 
-- udemy.com
+- [Udemy](https://www.udemy.com/)
     - Lots of Courses, some include certificates
     - Offers Free & Paid Courses
     - Variety of Content
     - Some Courses have Quizzes and Projects for good practice / knowledge reinforcement
 
 
-- programiz.com
-    - Lots of free Courses
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+    - Lots of Courses and Tutorials
+    - Variety of Content
     - In-depth content
+    - Offers Interview Preparation & Practice
+    - Free & Paid
+
+
+- [GitHub](https://www.github.com/)
+    - Lots of Repositories with Resources and Knowledge
+    - Free
 
 
 
@@ -459,23 +489,21 @@ List of some Self-Learning Resources
 
 
 
+# **Additional Resources**
 
-
-Additional Resources:
-
-- github.com
+- [GitHub](https://www.github.com/)
     - Publish your Projects
     - Contribute to Projects
+    - Browse and View Projects
     - Free
 
 
-- Git
-    - Version Control Software
-    - Useful
+- [Git](https://www.git-scm.com/)
+    - Version Control Software (Very useful)
     - Free
 
 
-- stackoverflow.com
+- [StackOverflow](https://www.stackoverflow.com/)
     - Developers don't memorize the entire syntax of Programming Languages,
     that's almost impossible.
     So when we need some help, we go here.
@@ -484,24 +512,21 @@ Additional Resources:
     - Active & Helpful Community
 
 
-- computerscience.org
-	- Large catalogue of Computer Science resources
+- [ComputerScience.org](https://www.computerscience.org/)
+    - Large catalogue of Computer Science resources
+    - A Computer Science Portal
 
 
-- dev.to
-    - A Community of Developers
-    - Website (https://www.dev.to/)
-    I know, the .to part is pretty weird.
+- [dev.to](https://www.dev.to/)
+    - A Community of Developers & Engineers (Software Engineers)
 
 
-- readthedocs.io
-    - Documentation for a variety of things
+- [readthedocs.io](https://www.readthedocs.io/)
+    - Documentation for a variety of technologies
 
 
-- devdocs.io
-    - Documentation for languages
-
-
+- [devdocs.io](https://www.devdocs.io/)
+    - Documentation for a variety of technologies
 
 
 
@@ -511,7 +536,9 @@ Additional Resources:
 
 
 
-Tips / Advice:
+
+
+# **Tips & Advice**
 
 - Stay consistent
 
@@ -530,6 +557,9 @@ be using) every time
 
 
 - Stay curious
+
+
+- Be excited to learn and grow
 
 
 - Don't stop learning
@@ -560,12 +590,28 @@ be using) every time
 when they're stuck
 
 
-- Plan things
+- Plan ahead
+
+
+- Stay productive
+
+
+- Take breaks; ***Always*** keep ***every*** pillar of your health in mind
 
 
 - Schedule your day
 
 
+- Always be prepared
+
+
+- Do not be lazy
+
+
+- Do not procrastinate
+
+
+- Try productivity / time management methods like the [Pomodoro Technique](https://www.search.google.com/search?q=Pomodoro+Technique&source=web/)
 
 
 
@@ -575,20 +621,18 @@ when they're stuck
 
 
 
-
-Other Download Links:
-
-- Git: https://www.git-scm.com/
+#
 
 
 
 
+The end, for now.
+
+Thanks for reading, and good luck to you all.
 
 
 
-
-
-
+#
 
 
 
