@@ -40,7 +40,7 @@
 
 ## **Requirements**
 
-- an interest
+- an interest / curiosity
 
 
 - a computer
@@ -487,6 +487,14 @@ another technology (in general).
 
 
 
+- [GitHub Education](https://www.education.github.com/)
+   - Free
+   - Variety of resources
+
+   and more
+
+
+
 
 - [GitHub](https://www.github.com/)
     - Lots of Repositories with Resources and Knowledge
@@ -647,6 +655,12 @@ Thanks for reading, and good luck to you all.
 
 
 #
+
+
+
+
+
+
 
 
 
