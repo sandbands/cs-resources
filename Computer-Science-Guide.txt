@@ -1,0 +1,602 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science Guide
+
+
+
+
+
+
+
+
+
+
+Requirements:
+
+- an interest
+
+
+- a computer
+
+
+- internet access
+
+
+
+
+
+
+
+
+How should one learn?
+
+You should 100% be self-taught; i.e. not taking programming classes at your school,
+not going to a programming bootcamp / programming school; not having a
+personal mentor / teacher / coach to teach you (getting advice / tips is fine).
+
+You can self-learn using resources such as Books, E-Books,
+Online Courses / Tutorials (not to be confused with a distance-learning
+bootcamp) such as YouTube Videos, Udemy Courses, etc. 
+
+Formal Education is always an option though, and depending on the job / role you are aiming for,
+you may need a Bachelor's Degree and / or some other certification.
+
+
+
+
+
+
+
+
+
+
+Why be self-taught?
+
+- Learn at your own pace (but try to be consistent)
+
+
+- Learn whenever
+
+
+- Learn from where ever you want
+
+
+- No homework
+
+
+- Cool thing to flex
+
+
+- There are lots of resources available
+
+
+- Resources out there are either Free or Affordable
+
+
+- Some resources provide certificates
+
+
+- Unlike school; does not add to your stress and responsibilities
+
+
+- and much more benefits; you'll love it
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does one need any certifications to get hired?
+
+- This varies per job title / role, and employer(s)
+
+
+
+
+
+
+
+
+
+
+
+
+Is Computer Science hard?
+
+- At first it might look complex and hard -- and it might even be hard, but if you stay consistent with your
+courses, obtain the information from your resource(s) properly,
+you'll be on the path to become a pro.
+
+
+
+
+
+
+
+
+
+
+
+How can one make money as a Programmer?
+
+- SaaS (Software as a Service; Google, Discord, YouTube, and Windows Operating
+Systems are good examples)
+
+
+- Freelance Work
+
+
+- A nine-to-five job
+
+
+- Paid Collaboration
+
+
+
+
+
+
+
+
+Picking a Programming Language:
+
+There are many Programming Languages out there such as Python, C, C++, C#, Java,
+Javascript, Go (aka Golang), etc.
+
+Beginners should start with Python or Golang, which are popular Programming Languages that are used widely.
+
+Python is General-Purpose (meaning it can be used for anything), Object-Oriented
+Programming Language (meaning it supports Object-Oriented Programming, which you'll
+see in most languages).
+
+Golang (The name is Go, but many refer to it as Golang) is also General-Purpose, but it is not Object-Oriented like Python.
+
+
+Python and Golang are simple but powerful languages and they serve as a good basis for beginners. Once you learn
+Python or Golang, other Programming languages will be easier for you to learn, in fact, 
+most are pretty similar to the one of the two or both in their own ways, just with different syntax.
+
+
+
+
+
+To install Python, go to https://www.python.org/downloads/
+and install the latest version of Python.
+
+To install Golang, go to https://www.go.dev/dl/
+and install the latest version of Golang.
+
+
+
+
+
+
+
+
+
+Choose a Text Editor or IDE (Integrated Development Environment)
+
+
+Popular Text Editors:
+
+- Visual Studio Code (Recommended)
+
+
+- Sublime Text
+
+
+- Atom
+
+
+- Notepad++
+
+
+- Vim (Not recommended for beginners)
+
+
+- Neovim (Not recommended for beginners)
+
+
+
+
+
+
+
+
+
+
+
+Popular IDEs:
+
+- Visual Studio
+
+
+- Pycharm (Python IDE)
+
+
+- GoLand (Golang IDE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Install the IDE / Text Editor of your choice
+
+
+
+
+Setup for Visual Studio Code:
+
+- Go to https://www.code.visualstudio.com/
+
+
+- Download Visual Studio Code (Community is Recommended)
+
+
+- If you chose to begin with Python and have it installed, follow these steps:
+    - Open Visual Studio Code
+    - Go to the Extensions Marketplace
+    - Search for 'Python'
+    - Install the Official Python extension
+    - If it says 'Reload Required' after installing, click it to Reload
+
+
+- If you chose to begin with Golang and have it installed, follow these steps:
+    - Open Visual Studio Code
+    - Go to the Extensions Marketplace
+    - Search for 'Go'
+    - Install the Official Go extension
+    - If it says 'Reload Required' after installing, click it to Reload
+
+
+
+
+
+
+
+
+
+
+
+[Roadmap] What skills should one learn?
+
+- Any Programming Language of your choice (A General-Purpose language is recommended for beginners)
+
+
+- Git: Version Control Software
+
+
+- GitHub: Platform for hosting / publishing, editing / contributing to, and downloading repositories; includes built-in version control
+
+
+- JSON and / or XML and / or TOML and / or YAML: Data Serialization
+
+
+- Software Engineering
+
+
+- SQL: Work with Databases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Terminology] Module vs Library vs Package vs Framework vs API vs SDK:
+
+- Module: Reusable source code
+
+
+- Library / Package: A Group of modules, and can even include other libraries / packages
+
+
+- Framework: A structure used for building applications, like house frameworks are used for building houses
+
+
+- API (Application Programming Interface): Allows applications to communicate with each other
+
+
+- SDK (Software Development Kit): Tool(s) used for Software Development
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Terminology] Full-Stack vs Front-End vs Back-End:
+
+- Full-Stack: Combination of the Front-End and Back-End
+
+
+- Front-End: Client-Side / Interface
+
+
+- Back-End: Server-Side
+
+
+
+
+
+
+
+
+
+
+[FAQ] What's the best {technology}?
+
+There is no such thing as "the best" X, and X is not better than Y or Z
+
+What I mean by this, is that everything has their own strenghts and weaknesses / pros and cons.
+
+Python is not better than C++ and C++ isn't better than Python.
+
+C++ is not the best programming language. 
+
+Windows is not better than Linux.
+
+Windows is not the best Operating system.
+
+Like said, each technology in Computer Science has its own pros and cons, and may
+excell in a particular task / application, but it does not mean that it is better than
+another technology (in general).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of some Self-Learning Resources
+
+- sololearn.com
+    - Website, iOS App, Android App
+    - Free with paid features that aren't necessary
+    - Free Certificates
+    - Great content
+    - Free Quizzes and Projects for good practice / knowledge reinforcement
+
+
+- codecademy.com
+    - Some Free Courses, Some Paid / Subscription-Based Courses
+    - Certificates for Members of PRO Subscription
+    - Great content
+    - Free Quizzes for good practice / knowledge reinforcement
+    - iOS and Android app
+
+
+- freecodecamp.org
+    - Free
+    - Content for almost everything in Technology
+    - They also have a youtube channel: https://www.youtube.com/c/freecodecamp/
+
+
+- w3schools.com
+    - Free Tutorials
+    - Paid Courses (More in-depth than the Tutorials)
+    - Certificates for Paid Courses
+    - Variety of Content
+    - Free Quizzes for good practice / knowledge reinforcement
+
+
+- programiz.com
+	- Lots of free courses
+	- In-depth content
+
+
+- udemy.com
+    - Lots of Courses, some include certificates
+    - Offers Free & Paid Courses
+    - Variety of Content
+    - Some Courses have Quizzes and Projects for good practice / knowledge reinforcement
+
+
+- programiz.com
+    - Lots of free Courses
+    - In-depth content
+
+
+
+
+
+
+
+
+
+
+
+Additional Resources:
+
+- github.com
+    - Publish your Projects
+    - Contribute to Projects
+    - Free
+
+
+- Git
+    - Version Control Software
+    - Useful
+    - Free
+
+
+- stackoverflow.com
+    - Developers don't memorize the entire syntax of Programming Languages,
+    that's almost impossible.
+    So when we need some help, we go here.
+    Forgot how to execute shell commands in Python? Ask here
+    Accidentally messed up some settings in your Code Editor? Get help here
+    - Active & Helpful Community
+
+
+- computerscience.org
+	- Large catalogue of Computer Science resources
+
+
+- dev.to
+    - A Community of Developers
+    - Website (https://www.dev.to/)
+    I know, the .to part is pretty weird.
+
+
+- readthedocs.io
+    - Documentation for a variety of things
+
+
+- devdocs.io
+    - Documentation for languages
+
+
+
+
+
+
+
+
+
+
+
+Tips / Advice:
+
+- Stay consistent
+
+
+- Stay motivated
+
+
+- Don't be too shy to ask for help
+
+
+- Don't fall into "tutorial-hell" where you can only do things by using Tutorials (Documentation is what you should really
+be using) every time
+
+
+- Stay interested
+
+
+- Stay curious
+
+
+- Don't stop learning
+
+
+- Don't give up
+
+
+- The road is gonna get fairly bumpy, but that goes for everything in life
+
+
+- Have fun
+
+
+- Talk to others in the Computer Science field
+
+
+- All new things can be intimidating, but don't let that stop you
+
+
+- Face challenges head-on
+
+
+- Take your time; don't rush anything
+
+
+- It is okay to turn to the Internet for help; pros know how to get help
+when they're stuck
+
+
+- Plan things
+
+
+- Schedule your day
+
+
+
+
+
+
+
+
+
+
+
+
+Other Download Links:
+
+- Git: https://www.git-scm.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
