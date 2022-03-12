@@ -479,6 +479,14 @@ another technology (in general).
     - A Computer Science Portal
 
 
+
+- [YouTube](https://youtube.com/)
+    - Free
+    - Variety of content
+    - Content for almost everything about **Computer Science**
+
+
+
 - [Udemy](https://udemy.com/)
     - Lots of Courses, some include certificates
     - Offers Free & Paid Courses
@@ -655,6 +663,8 @@ Thanks for reading, and good luck to you all.
 
 
 #
+
+
 
 
 
