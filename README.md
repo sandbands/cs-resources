@@ -196,10 +196,10 @@ most are pretty similar to the one of the two or both in their own ways, just wi
 
 
 
-To install Python, go to [this page](https://www.python.org/downloads/)
+To install Python, go to [this page](https://python.org/downloads/)
 and install the latest version of Python.
 
-To install Golang, go to [this page](https://www.go.dev/dl/)
+To install Golang, go to [this page](https://go.dev/dl/)
 and install the latest version of Golang.
 
 
@@ -280,7 +280,7 @@ some IDEs that are suited for one specific language.
 
 Setup for Visual Studio Code:
 
-- Go to [this page](https://www.code.visualstudio.com/)
+- Go to [this page](https://code.visualstudio.com/)
 
 
 - Download Visual Studio Code (Community is Recommended)
@@ -433,7 +433,7 @@ another technology (in general).
 
 # **List of some Self-Learning Resources**
 
-- [Sololearn](https://www.sololearn.com/)
+- [Sololearn](https://sololearn.com/)
     - Website, iOS App, Android App
     - Free with paid features that aren't necessary
     - Free Certificates
@@ -441,7 +441,7 @@ another technology (in general).
     - Free Quizzes and Projects for good practice / knowledge reinforcement
 
 
-- [Codecademy](https://www.codecademy.com/)
+- [Codecademy](https://codecademy.com/)
     - Some Free Courses, Some Paid / Subscription-Based Courses
     - Certificates for Members of PRO Subscription
     - Great content
@@ -449,13 +449,13 @@ another technology (in general).
     - iOS and Android app
 
 
-- [freeCodeCamp](https://www.freecodecamp.org/)
+- [freeCodeCamp](https://freecodecamp.org/)
     - Free
     - Content for almost everything about **Computer Science**
-    - They also have a youtube channel: [freeCodeCamp](https://www.youtube.com/c/freecodecamp/)
+    - They also have a youtube channel: [freeCodeCamp](https://youtube.com/c/freecodecamp/)
 
 
-- [W3Schools](https://www.w3schools.com/)
+- [W3Schools](https://w3schools.com/)
     - Free Tutorials
     - Paid Courses (More in-depth than the Tutorials)
     - Certificates for Paid Courses
@@ -464,13 +464,13 @@ another technology (in general).
 
 
 
-- [Programiz](https://www.programiz.com/)
+- [Programiz](https://programiz.com/)
     - Lots of free courses
     - In-depth content
 
 
 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [GeeksforGeeks](https://geeksforgeeks.org/)
     - Lots of Courses and Tutorials
     - Variety of Content
     - In-depth content
@@ -479,7 +479,7 @@ another technology (in general).
     - A Computer Science Portal
 
 
-- [Udemy](https://www.udemy.com/)
+- [Udemy](https://udemy.com/)
     - Lots of Courses, some include certificates
     - Offers Free & Paid Courses
     - Variety of Content
@@ -487,7 +487,7 @@ another technology (in general).
 
 
 
-- [GitHub Education](https://www.education.github.com/)
+- [GitHub Education](https://education.github.com/)
    - Free
    - Variety of resources
 
@@ -496,7 +496,7 @@ another technology (in general).
 
 
 
-- [GitHub](https://www.github.com/)
+- [GitHub](https://github.com/)
     - Lots of Repositories with Resources and Knowledge
     - Free
 
@@ -510,19 +510,19 @@ another technology (in general).
 
 # **Additional Resources**
 
-- [GitHub](https://www.github.com/)
+- [GitHub](https://github.com/)
     - Publish your Projects
     - Contribute to Projects
     - Browse and View Projects
     - Free
 
 
-- [Git](https://www.git-scm.com/)
+- [Git](https://git-scm.com/)
     - Version Control Software (Very useful)
     - Free
 
 
-- [StackOverflow](https://www.stackoverflow.com/)
+- [StackOverflow](https://stackoverflow.com/)
     - Developers don't memorize the entire syntax of Programming Languages,
     that's almost impossible.
     So when we need some help, we go here.
@@ -531,20 +531,20 @@ another technology (in general).
     - Active & Helpful Community
 
 
-- [ComputerScience.org](https://www.computerscience.org/)
+- [ComputerScience.org](https://computerscience.org/)
     - Large catalogue of Computer Science resources
     - A Computer Science Portal
 
 
-- [dev.to](https://www.dev.to/)
+- [dev.to](https://dev.to/)
     - A Community of Developers & Engineers (Software Engineers)
 
 
-- [readthedocs.io](https://www.readthedocs.io/)
+- [readthedocs.io](https://readthedocs.io/)
     - Documentation for a variety of technologies
 
 
-- [devdocs.io](https://www.devdocs.io/)
+- [devdocs.io](https://devdocs.io/)
     - Documentation for a variety of technologies
 
 
@@ -633,7 +633,7 @@ when they're stuck
 - Do not procrastinate
 
 
-- Try productivity / time management methods like the [Pomodoro Technique](https://www.search.google.com/search?q=Pomodoro+Technique&source=web/)
+- Try productivity / time management methods like the [Pomodoro Technique](https://search.google.com/search?q=Pomodoro+Technique&source=web/)
 
 
 
@@ -655,6 +655,8 @@ Thanks for reading, and good luck to you all.
 
 
 #
+
+
 
 
 
