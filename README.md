@@ -495,6 +495,15 @@ another technology (in general).
 
 
 
+- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+    - Free
+    - Popular and rightfully so
+    - In-depth
+    - For all skillsets
+    - Great introduction to Computer Science
+
+
+
 - [GitHub Education](https://education.github.com/)
    - Free
    - Variety of resources
