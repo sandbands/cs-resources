@@ -482,6 +482,13 @@ another technology (in general).
 
 
 
+- [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+    - Free Tutorials
+    - Paid Premium Courses (Paid in Indian Rupees Currency)
+    - Offers Certificates (Also Paid)
+
+
+
 - [Programiz](https://programiz.com/)
     - Lots of free courses
     - In-depth content
