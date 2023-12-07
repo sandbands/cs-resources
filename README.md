@@ -442,6 +442,20 @@ another technology (in general).
 
 
 
+- [educative.io](https://www.educative.io/)
+    - Paid Courses
+    - Some Free Tutorials (Paid is Recommended)
+    - Lots of tools and resources to prepare you for a future career
+
+
+
+- [hackr.io](https://hackr.io/)
+    - Easy way to search for resources
+    - Filter by language and price, and/or more factors
+    - Submit your own recommendations
+
+
+
 - [Codecademy](https://codecademy.com/)
     - Some Free Courses, Some Paid / Subscription-Based Courses
     - Certificates for Members of PRO Subscription
@@ -544,6 +558,47 @@ another technology (in general).
 
 
 
+
+# **Practice: Reinforce + Improve your knowledge & problem solving**
+
+- [LeetCode](https://leetcode.com/)
+    - One of the best ways to upskill your programming and problem solving abilities
+    - Challenges aimed primarily for practice for technical interviews, may be hard for beginners
+    - Free, but also has Premium features
+    - One of the most popular and recognized upskilling sites in the World
+
+
+- [edabit](https://edabit.com/)
+    - Upskill your programming and problem solving abilities by solving coding challenges published by other users, and gain XP
+    - Free
+    - Submit your own Problems for users to solve
+    - Highly recommended and enjoyable
+
+
+
+- [HACKTHEBOX](https://www.hackthebox.com/)
+    - Learn & Practice hacking and improve your programming and problem solving skills
+    - Free
+    - One of the most popular and recognized upskilling sites in the World
+
+
+- [CodinGame](https://www.codingame.com/start/)
+    - Many Coding Games that test your knowledge and problem solving
+    - Free
+    - Fun way to practice
+
+
+#### ANNUAL COMPETITION - Great Practice
+
+- **[Advent of Code](https://adventofcode.com/)**
+    - Hosted once every year during December
+    - Completely Free
+    - One new problem every day for 25 days
+    - Gives you a problem to solve and a set of input to test your code with, you may use any language so long as you achieve the desired output
+    - The points you gain per problem depends on how long it took you to solve it since it was launched
+    - Great competition
+    - Great way to practice
+    - Highly recommended
 
 
 
