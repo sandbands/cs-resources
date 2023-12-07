@@ -441,6 +441,7 @@ another technology (in general).
     - Free Quizzes and Projects for good practice / knowledge reinforcement
 
 
+
 - [Codecademy](https://codecademy.com/)
     - Some Free Courses, Some Paid / Subscription-Based Courses
     - Certificates for Members of PRO Subscription
@@ -449,10 +450,27 @@ another technology (in general).
     - iOS and Android app
 
 
+
+- [Coddy](https://coddy.tech/)
+    - Free
+    - Great Content
+
+
+ 
+- [Enki](https://www.enki.com/)
+    - Free Courses (has paid features)
+    - Variety of Rich Content
+    - Free Practice
+    - iOS and Android app
+    - **(NOTE)**: For some reason, as of the time of this update to the repository, the website doesn't have all the courses that the mobile app has.
+
+
+
 - [freeCodeCamp](https://freecodecamp.org/)
     - Free
     - Content for almost everything about **Computer Science**
     - They also have a youtube channel: [freeCodeCamp](https://youtube.com/c/freecodecamp/)
+
 
 
 - [W3Schools](https://w3schools.com/)
