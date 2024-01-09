@@ -442,6 +442,47 @@ another technology (in general).
 
 
 
+- [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+    - Free Tutorials
+    - Paid Premium Courses (Paid in Indian Rupees Currency)
+    - Offers Certificates (Also Paid)
+
+
+
+- [Programiz](https://programiz.com/)
+    - Lots of free courses
+    - In-depth content
+ 
+
+
+- [W3Schools](https://w3schools.com/)
+    - Free Tutorials
+    - Paid Courses (More in-depth than the Tutorials)
+    - Certificates for Paid Courses
+    - Variety of Content
+    - Free Quizzes for good practice / knowledge reinforcement
+ 
+
+
+- [GeeksforGeeks](https://geeksforgeeks.org/)
+    - Lots of Courses and Tutorials
+    - Variety of Content
+    - In-depth content
+    - Offers Interview Preparation & Practice
+    - Free & Paid
+    - A Computer Science Portal
+
+
+
+- [Codecademy](https://codecademy.com/)
+    - Some Free Courses, Some Paid / Subscription-Based Courses
+    - Certificates for Members of PRO Subscription
+    - Great content
+    - Free Quizzes for good practice / knowledge reinforcement
+    - iOS and Android app
+
+
+
 - [educative.io](https://www.educative.io/)
     - Paid Courses
     - Some Free Tutorials (Paid is Recommended)
@@ -456,27 +497,9 @@ another technology (in general).
 
 
 
-- [Codecademy](https://codecademy.com/)
-    - Some Free Courses, Some Paid / Subscription-Based Courses
-    - Certificates for Members of PRO Subscription
-    - Great content
-    - Free Quizzes for good practice / knowledge reinforcement
-    - iOS and Android app
-
-
-
 - [Coddy](https://coddy.tech/)
     - Free
     - Great Content
-
-
- 
-- [Enki](https://www.enki.com/)
-    - Free Courses (has paid features)
-    - Variety of Rich Content
-    - Free Practice
-    - iOS and Android app
-    - **(NOTE)**: For some reason, as of the time of this update to the repository, the website doesn't have all the courses that the mobile app has.
 
 
 
@@ -484,38 +507,6 @@ another technology (in general).
     - Free
     - Content for almost everything about **Computer Science**
     - They also have a youtube channel: [freeCodeCamp](https://youtube.com/c/freecodecamp/)
-
-
-
-- [W3Schools](https://w3schools.com/)
-    - Free Tutorials
-    - Paid Courses (More in-depth than the Tutorials)
-    - Certificates for Paid Courses
-    - Variety of Content
-    - Free Quizzes for good practice / knowledge reinforcement
-
-
-
-- [tutorialspoint](https://www.tutorialspoint.com/index.htm)
-    - Free Tutorials
-    - Paid Premium Courses (Paid in Indian Rupees Currency)
-    - Offers Certificates (Also Paid)
-
-
-
-- [Programiz](https://programiz.com/)
-    - Lots of free courses
-    - In-depth content
-
-
-
-- [GeeksforGeeks](https://geeksforgeeks.org/)
-    - Lots of Courses and Tutorials
-    - Variety of Content
-    - In-depth content
-    - Offers Interview Preparation & Practice
-    - Free & Paid
-    - A Computer Science Portal
 
 
 
